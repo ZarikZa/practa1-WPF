@@ -1,0 +1,20 @@
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\bin\Debug\net8.0-windows\new shtuka.exe
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\bin\Debug\net8.0-windows\new shtuka.deps.json
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\bin\Debug\net8.0-windows\new shtuka.runtimeconfig.json
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\bin\Debug\net8.0-windows\new shtuka.dll
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\bin\Debug\net8.0-windows\new shtuka.pdb
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\obj\Debug\net8.0-windows\new shtuka_MarkupCompile.cache
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\obj\Debug\net8.0-windows\new shtuka_MarkupCompile.lref
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\obj\Debug\net8.0-windows\new shtuka.g.resources
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\obj\Debug\net8.0-windows\new shtuka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\obj\Debug\net8.0-windows\new shtuka.AssemblyInfoInputs.cache
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\obj\Debug\net8.0-windows\new shtuka.AssemblyInfo.cs
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\obj\Debug\net8.0-windows\new shtuka.csproj.CoreCompileInputs.cache
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\obj\Debug\net8.0-windows\new shtuka.dll
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\obj\Debug\net8.0-windows\refint\new shtuka.dll
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\obj\Debug\net8.0-windows\new shtuka.pdb
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\obj\Debug\net8.0-windows\new shtuka.genruntimeconfig.cache
+C:\Users\MSI-MODERN-14\source\repos\new shtuka\new shtuka\obj\Debug\net8.0-windows\ref\new shtuka.dll
